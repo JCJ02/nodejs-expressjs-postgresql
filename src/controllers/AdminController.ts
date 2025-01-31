@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import AdminService from "../services/AdminService";
 import TestService from "../services/TestService";
-import AppResponse from "../utils/AppResponse";
+import AppResponse from "../utils/appResponse";
 
 class AdminController {
 
